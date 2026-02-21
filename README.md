@@ -144,7 +144,7 @@ end
 
 
 ### Learning Resources
-- **YouTube Channel:** [ALL ABOUT VLSI](https://www.youtube.com/@allabotutvlsi)
+- **YouTube Channel:** ALL ABOUT VLSI
 
 
 ---
